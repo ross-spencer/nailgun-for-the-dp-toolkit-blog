@@ -9,7 +9,7 @@ do
    ./SysExitApp.bin
 done)
 
-#Commented out, only for use if Jar loaded into Nailgun
+#Only for use if Jar loaded into Nailgun
 #time (for i in {1..1000}
 #do
 #   ng SysExitApp
