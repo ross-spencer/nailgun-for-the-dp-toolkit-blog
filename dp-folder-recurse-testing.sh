@@ -8,7 +8,7 @@ rm -f 'sha-one-analysis.log'
 MANIFEST='/home/digital/Desktop/dp-testing/recurse-testing/opf-format-corpus-directory-manifest.txt'
 
 # Corpus Location
-CORPUSLOC='/home/digitalr/Desktop/dp-testing/opf-format-corpus'
+CORPUSLOC='/home/digital/Desktop/dp-testing/opf-format-corpus'
 
 dp_analysis ()
 {
