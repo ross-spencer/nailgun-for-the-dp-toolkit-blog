@@ -1,4 +1,6 @@
-nailgun-for-the-dp-toolkit-blog
-===============================
+A nailgun for the digital preservation toolkit
+===============================================
 
-A repository containing scripts for a blog about using Nailgun with the digital preservation toolkit. 
+A repository containing scripts for the OPF blog: A Nailgun for the Digital Preservation Toolkit. 
+
+
