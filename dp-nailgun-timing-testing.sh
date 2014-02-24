@@ -4,7 +4,7 @@ set -e
 JHOVE_HOME='/home/digital/dp-toolkit/jhove-1_11'
 TIKA_HOME='/home/digital/dp-toolkit/tika-1.5'
 
-#Load JHOVE, NANITE and TIKA into Nailgun CLASSPATH
+#Load JHOVE and TIKA into Nailgun CLASSPATH
 $(ng ng-cp ${JHOVE_HOME}/bin/JhoveApp.jar)
 $(ng ng-cp ${TIKA_HOME}/tika-app-1.5.jar) 
 
