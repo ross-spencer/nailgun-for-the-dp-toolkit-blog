@@ -8,7 +8,7 @@ Preservation Toolkit.
 
 Primary script used for timing in the Nailgun blog. Requires a new manifest
 to the opf-format-blog, and/or another corpus of files to test on. Also
-requires the [http://www.martiansoftware.com/nailgun/Nailgun](Nailgun) 
+requires the [Nailgun](http://www.martiansoftware.com/nailgun/Nailgun) 
 server to have been started. 
 
 ###dp-folder-recurse-testing.sh
