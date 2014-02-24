@@ -1,8 +1,7 @@
 A nailgun for the digital preservation toolkit
 ===============================================
 
-A repository containing scripts for the OPF blog: A Nailgun for the Digital 
-Preservation Toolkit. 
+A repository containing scripts for the OPF blog: [A Nailgun for the Digital Preservation Toolkit.](http://www.openplanetsfoundation.org/blogs/2014-02-24-nailgun-digital-preservation-toolkit)
 
 ###dp-nailgun-timing-testing.sh
 
